@@ -1,0 +1,31 @@
+body {
+    padding: 50px;
+  }
+ .country-container {
+    margin-top: 50px;
+  }
+  
+  input {
+    width: 360px;
+    height: 40px;
+  }
+  
+  .countries-list {
+    text-align: left;
+  }
+  
+  
+  ul {
+    list-style: none;
+  }
+  
+  .country-info {
+    margin-right: 20px;
+  }
+  .title-cantry {
+    text-align: center;
+  }
+  .country-card {
+    display: flex;
+    justify-content: center;
+  }
